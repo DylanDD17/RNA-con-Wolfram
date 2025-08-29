@@ -1,8 +1,8 @@
 ## RNA con wolfram
 
-Este proyecto implementa una **Red Neuronal Artificial (RNA)** básica en *Wolfram Language* para simular el funcionamiento de las compuertas lógicas **AND, OR y XOR**.  
+Este proyecto implementa una Red Neuronal Artificial (RNA) básica en *Wolfram Language* para simular el funcionamiento de las compuertas lógicas AND, OR y XOR.  
 
-La base teórica usada es la **neurona artificial**, la cual combina entradas ponderadas con un sesgo (**bias**), y aplica una **función de activación escalón**.
+La base teórica usada es la neurona artificial, la cual combina entradas ponderadas con un sesgo (bias), y aplica una función de activación escalón.
 
 ---
 
